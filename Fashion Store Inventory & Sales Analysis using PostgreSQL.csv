@@ -1,0 +1,51 @@
+﻿product_id,product_name,category,brand,color,size,price,stock_quantity,units_sold,rating
+1,T-Shirt,Men's Wear,Nike,Red,S,500,50,30,4.2
+2,Jeans,Men's Wear,Levi's,Blue,M,1200,40,25,4.5
+3,Shirt,Men's Wear,Allen Solly,White,L,800,60,40,4
+4,Polo Shirt,Men's Wear,Polo,Black,M,900,45,35,4.3
+5,Jacket,Men's Wear,UCB,Green,L,1500,30,20,4.1
+6,Hoodie,Men's Wear,H&M,Yellow,M,1400,35,22,4.4
+7,Sweater,Men's Wear,Zara,Pink,L,1000,55,28,4
+8,Pants,Men's Wear,Roadster,Brown,M,1100,50,33,4.2
+9,Shorts,Men's Wear,Pepe Jeans,Grey,S,700,70,45,3.9
+10,Blazer,Men's Wear,Wrangler,Orange,M,2000,25,18,4.3
+11,Dress,Women's Wear,Biba,Red,S,1800,40,30,4.6
+12,Skirt,Women's Wear,W for Women,Blue,M,900,35,26,4.4
+13,Top,Women's Wear,Aurelia,White,S,600,60,38,4.1
+14,Leggings,Women's Wear,Global Desi,Black,M,700,50,32,4
+15,Jumpsuit,Women's Wear,Libas,Green,M,2500,30,15,4.5
+16,Kurti,Ethnic Wear,Manyavar,Yellow,M,1200,45,20,4.2
+17,Saree,Ethnic Wear,Sabyasachi,Pink,Free Size,3000,20,10,4.6
+18,Palazzo,Ethnic Wear,Fabindia,Brown,M,1000,25,12,4.3
+19,Dupatta,Ethnic Wear,Chhabra 555,Grey,Free Size,400,40,18,4.1
+20,Gown,Ethnic Wear,Banarasi Silk House,Orange,L,2200,30,14,4.5
+21,Sneakers,Footwear,Adidas,Red,8,2500,35,22,4.4
+22,Sandals,Footwear,Puma,Blue,7,800,50,35,4.2
+23,Formal Shoes,Footwear,Reebok,White,9,1500,45,28,4.3
+24,Boots,Footwear,Bata,Black,10,1800,25,12,4
+25,Slippers,Footwear,Woodland,Grey,Free Size,300,60,40,4.1
+26,Sunglasses,Accessories,Ray-Ban,Pink,Free Size,1200,55,38,4.5
+27,Belt,Accessories,Fastrack,Brown,Free Size,500,40,25,4.2
+28,Watch,Accessories,Titan,Black,Free Size,2500,30,18,4.6
+29,Handbag,Accessories,Caprese,Blue,Free Size,2000,35,20,4.3
+30,Backpack,Accessories,Wildcraft,White,Free Size,1800,25,15,4.4
+31,Cap,Accessories,Lavie,Red,Free Size,600,50,30,4.1
+32,Scarf,Accessories,Max,Green,Free Size,400,60,42,4
+33,Earrings,Jewelry,Forever 21,Yellow,Free Size,700,40,25,4.2
+34,Necklace,Jewelry,Accessorize,Pink,Free Size,1200,30,18,4.5
+35,Bracelet,Jewelry,Voylla,Brown,Free Size,900,35,22,4.6
+36,Ring,Jewelry,BlueStone,Grey,Free Size,1500,25,14,4.3
+37,Anklet,Jewelry,CaratLane,Black,Free Size,1000,20,10,4.2
+38,Track Pants,Sportswear,HRX,White,M,300,45,24,4.4
+39,Sports T-Shirt,Sportswear,Decathlon,Gold,S,900,50,28,4.1
+40,Tank Top,Sportswear,Under Armour,Silver,M,700,55,33,4
+41,Tracksuit,Sportswear,Nike,Black,L,1800,40,26,4.5
+42,Sports Jacket,Sportswear,Adidas,Blue,M,1600,35,20,4.3
+43,Coat,Outerwear,Puma,White,L,2200,30,15,4.2
+44,Winter Jacket,Outerwear,HRX,Grey,L,3000,25,12,4.1
+45,Raincoat,Outerwear,Zudio,Red,M,2000,20,9,4
+46,Night Suit,Outerwear,Monte Carlo,Pink,Free Size,1500,15,35,4.6
+47,Pajamas,Loungewear,Peter England,Brown,M,800,50,40,4.5
+48,Lounge Set,Loungewear,Van Heusen,Black,M,600,60,30,4.3
+49,Sweatpants,Loungewear,Sleepyhead,White,M,1000,45,22,4.2
+50,Robe,Loungewear,Fabindia,Grey,Free Size,1200,35,18,4.4
